@@ -1,0 +1,1 @@
+https://universe.roboflow.com/imagerecognition-43zpb/person-with-helmet/model/1?webcam=true
